@@ -31,6 +31,7 @@ import he from "./locales/he.js";
 import fr from "./locales/fr.js";
 import ja from "./locales/ja.js";
 import pt from "./locales/pt.js";
+import de from "./locales/de.js";
 
 export {
   ar,
@@ -38,6 +39,7 @@ export {
   be,
   ca,
   cs,
+  de,
   es,
   en,
   fa,
